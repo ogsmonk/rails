@@ -1,0 +1,39 @@
+2024-04-17 20:05:35.424 [info] 
+
+
+
+
+2024-04-17 20:05:35.424 [info] Extension host agent started.
+2024-04-17 20:05:35.424 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ogsmonk/.vscode-server/extensions
+2024-04-17 20:05:35.435 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ogsmonk/.vscode-server/extensions
+2024-04-17 20:05:35.543 [info] [127.0.0.1][5f1acc29][ManagementConnection] New connection established.
+2024-04-17 20:05:35.762 [info] [127.0.0.1][cfe9f9d5][ExtensionHostConnection] New connection established.
+2024-04-17 20:05:35.789 [info] [127.0.0.1][cfe9f9d5][ExtensionHostConnection] <16917> Launched Extension Host Process.
+2024-04-17 21:09:12.624 [info] Getting Manifest... shopify.ruby-lsp
+2024-04-17 21:09:12.691 [info] Installing extension: shopify.ruby-lsp
+2024-04-17 21:09:14.644 [info] Extension signature is verified: shopify.ruby-lsp
+2024-04-17 21:09:14.672 [info] Extracted extension to file:///home/ogsmonk/.vscode-server/extensions/shopify.ruby-lsp-0.5.19: shopify.ruby-lsp
+2024-04-17 21:09:14.676 [info] Renamed to /home/ogsmonk/.vscode-server/extensions/shopify.ruby-lsp-0.5.19
+2024-04-17 21:09:14.678 [info] Extracting extension completed. shopify.ruby-lsp
+2024-04-17 21:09:14.683 [info] Extension installed successfully: shopify.ruby-lsp
+2024-04-17 21:09:26.950 [info] Getting Manifest... github.copilot
+2024-04-17 21:09:27.088 [info] Installing extension: github.copilot
+2024-04-17 21:09:27.596 [info] Getting Manifest... github.copilot-chat
+2024-04-17 21:09:27.662 [info] Installing extension: github.copilot-chat
+2024-04-17 21:09:29.926 [info] Extension signature is verified: github.copilot-chat
+2024-04-17 21:09:30.076 [info] Extracted extension to file:///home/ogsmonk/.vscode-server/extensions/github.copilot-chat-0.14.1: github.copilot-chat
+2024-04-17 21:09:30.080 [info] Renamed to /home/ogsmonk/.vscode-server/extensions/github.copilot-chat-0.14.1
+2024-04-17 21:09:30.082 [info] Extracting extension completed. github.copilot-chat
+2024-04-17 21:09:30.687 [info] Extension signature is verified: github.copilot
+2024-04-17 21:09:30.942 [info] Extracted extension to file:///home/ogsmonk/.vscode-server/extensions/github.copilot-1.180.0: github.copilot
+2024-04-17 21:09:30.947 [info] Renamed to /home/ogsmonk/.vscode-server/extensions/github.copilot-1.180.0
+2024-04-17 21:09:30.949 [info] Extracting extension completed. github.copilot
+2024-04-17 21:09:30.954 [info] Extension installed successfully: github.copilot-chat
+2024-04-17 21:09:30.954 [info] Extension installed successfully: github.copilot
+2024-04-17 21:11:21.018 [info] [127.0.0.1][5f1acc29][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-17 21:11:21.223 [info] [127.0.0.1][cfe9f9d5][ExtensionHostConnection] <16917> Extension Host Process exited with code: 0, signal: null.
+2024-04-17 21:11:22.530 [info] [127.0.0.1][a8ff462e][ManagementConnection] New connection established.
+2024-04-17 21:11:22.768 [info] [127.0.0.1][a0b94d80][ExtensionHostConnection] New connection established.
+2024-04-17 21:11:22.774 [info] [127.0.0.1][a0b94d80][ExtensionHostConnection] <29657> Launched Extension Host Process.
+2024-04-17 21:35:46.955 [info] [127.0.0.1][a8ff462e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-17 21:35:47.095 [info] [127.0.0.1][a0b94d80][ExtensionHostConnection] <29657> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,6 @@
+2024-04-17 21:11:29.144 [info] (myapp) Checking if chruby is available on the path with command: /bin/bash -i -c 'chruby --version'
+2024-04-17 21:11:29.305 [info] (myapp) Checking if rbenv is available on the path with command: /bin/bash -i -c 'rbenv --version'
+2024-04-17 21:11:29.404 [info] (myapp) Checking if rvm is available on the path with command: /bin/bash -i -c 'rvm --version'
+2024-04-17 21:11:29.510 [info] (myapp) Checking if asdf is available on the path with command: /bin/bash -i -c 'asdf --version'
+2024-04-17 21:11:29.533 [info] (myapp) Discovered version manager asdf
+2024-04-17 21:11:29.533 [info] (myapp) Trying to activate Ruby environment with command: /bin/bash -i -c 'asdf exec ruby -rjson -e "STDERR.printf(%{RUBY_ENV_ACTIVATE%sRUBY_ENV_ACTIVATE}, JSON.dump({ env: ENV.to_h, ruby_version: RUBY_VERSION, yjit: defined?(RubyVM::YJIT) }))"' inside directory: /home/ogsmonk/myapp

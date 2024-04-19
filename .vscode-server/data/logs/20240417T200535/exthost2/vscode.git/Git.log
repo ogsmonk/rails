@@ -1,0 +1,222 @@
+2024-04-17 21:11:28.753 [info] Log level: Info
+2024-04-17 21:11:28.753 [info] Validating found git in: "git"
+2024-04-17 21:11:28.753 [info] Using git "2.34.1" from "git"
+2024-04-17 21:11:28.753 [info] > git rev-parse --show-toplevel [7ms]
+2024-04-17 21:11:28.753 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-04-17 21:11:28.753 [info] Open repository: /home/ogsmonk/myapp
+2024-04-17 21:11:28.772 [info] > git rev-parse --show-toplevel [9ms]
+2024-04-17 21:11:28.773 [info] > git config --get commit.template [14ms]
+2024-04-17 21:11:28.788 [info] No remotes found in the git config file.
+2024-04-17 21:11:28.789 [info] > git rev-parse --show-toplevel [9ms]
+2024-04-17 21:11:28.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-04-17 21:11:28.796 [warning] No such branch: main.
+2024-04-17 21:11:28.805 [info] > git status -z -uall [1ms]
+2024-04-17 21:11:28.806 [info] > git rev-parse --show-toplevel [11ms]
+2024-04-17 21:11:28.831 [info] > git config --get commit.template [4ms]
+2024-04-17 21:11:28.832 [info] > git rev-parse --show-toplevel [12ms]
+2024-04-17 21:11:28.848 [info] No remotes found in the git config file.
+2024-04-17 21:11:28.852 [info] > git rev-parse --show-toplevel [12ms]
+2024-04-17 21:11:28.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2024-04-17 21:11:28.877 [warning] No such branch: main.
+2024-04-17 21:11:28.884 [info] > git status -z -uall [1ms]
+2024-04-17 21:11:28.884 [info] > git rev-parse --show-toplevel [10ms]
+2024-04-17 21:11:29.112 [info] > git rev-parse --show-toplevel [216ms]
+2024-04-17 21:11:29.138 [info] > git rev-parse --show-toplevel [9ms]
+2024-04-17 21:11:29.158 [info] > git rev-parse --show-toplevel [9ms]
+2024-04-17 21:11:29.165 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-17 21:11:29.171 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-17 21:11:29.278 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:11:44.559 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:12:07.102 [info] > git check-ignore -v -z --stdin [0ms]
+2024-04-17 21:12:08.908 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:12:14.009 [info] > git show --textconv :app/views/layouts/application.html.erb [7ms]
+2024-04-17 21:12:14.010 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/application.html.erb [1ms]
+2024-04-17 21:12:19.121 [info] > git show --textconv :app/views/layouts/mailer.html.erb [6ms]
+2024-04-17 21:12:19.121 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.html.erb [2ms]
+2024-04-17 21:12:21.308 [info] > git show --textconv :app/views/layouts/mailer.text.erb [6ms]
+2024-04-17 21:12:21.308 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.text.erb [1ms]
+2024-04-17 21:12:23.408 [info] > git show --textconv :app/views/layouts/mailer.html.erb [6ms]
+2024-04-17 21:12:23.408 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.html.erb [1ms]
+2024-04-17 21:12:24.055 [info] > git show --textconv :app/views/layouts/application.html.erb [5ms]
+2024-04-17 21:12:24.055 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/application.html.erb [1ms]
+2024-04-17 21:12:41.363 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:12:42.999 [info] > git check-ignore -v -z --stdin [0ms]
+2024-04-17 21:12:44.055 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:12:45.074 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:13:26.586 [info] > git show --textconv :app/views/layouts/mailer.html.erb [5ms]
+2024-04-17 21:13:26.587 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.html.erb [2ms]
+2024-04-17 21:13:27.951 [info] > git show --textconv :app/views/layouts/mailer.text.erb [4ms]
+2024-04-17 21:13:27.952 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.text.erb [1ms]
+2024-04-17 21:13:30.082 [info] > git show --textconv :app/views/layouts/application.html.erb [4ms]
+2024-04-17 21:13:30.082 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/application.html.erb [1ms]
+2024-04-17 21:13:37.555 [info] > git show --textconv :app/views/layouts/mailer.html.erb [4ms]
+2024-04-17 21:13:37.556 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.html.erb [1ms]
+2024-04-17 21:13:45.732 [info] > git show --textconv :app/views/layouts/mailer.text.erb [6ms]
+2024-04-17 21:13:45.732 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.text.erb [1ms]
+2024-04-17 21:13:56.932 [info] > git check-ignore -v -z --stdin [0ms]
+2024-04-17 21:13:59.026 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:14:00.637 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:14:01.586 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:14:02.510 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:14:03.435 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:14:04.473 [info] > git check-ignore -v -z --stdin [0ms]
+2024-04-17 21:14:08.412 [info] > git check-ignore -v -z --stdin [0ms]
+2024-04-17 21:14:26.647 [info] > git show --textconv :app/views/layouts/mailer.text.erb [5ms]
+2024-04-17 21:14:26.648 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.text.erb [2ms]
+2024-04-17 21:14:29.054 [info] > git show --textconv :app/views/layouts/application.html.erb [4ms]
+2024-04-17 21:14:29.054 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/application.html.erb [1ms]
+2024-04-17 21:14:30.323 [info] > git show --textconv :app/views/layouts/mailer.html.erb [4ms]
+2024-04-17 21:14:30.324 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/mailer.html.erb [1ms]
+2024-04-17 21:15:06.465 [info] No remotes found in the git config file.
+2024-04-17 21:15:06.466 [info] > git config --get commit.template [6ms]
+2024-04-17 21:15:06.466 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:15:06.467 [warning] No such branch: main.
+2024-04-17 21:15:06.473 [info] > git status -z -uall [1ms]
+2024-04-17 21:15:21.055 [info] > git config --get commit.template [1ms]
+2024-04-17 21:15:21.055 [info] No remotes found in the git config file.
+2024-04-17 21:15:21.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:15:21.059 [warning] No such branch: main.
+2024-04-17 21:15:21.064 [info] > git status -z -uall [1ms]
+2024-04-17 21:15:26.081 [info] No remotes found in the git config file.
+2024-04-17 21:15:26.081 [info] > git config --get commit.template [7ms]
+2024-04-17 21:15:26.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:15:26.081 [warning] No such branch: main.
+2024-04-17 21:15:26.088 [info] > git status -z -uall [1ms]
+2024-04-17 21:15:34.155 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:15:35.843 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:15:41.034 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:15:41.789 [info] > git show --textconv :app/views/home/index.html.erb [5ms]
+2024-04-17 21:15:41.789 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [1ms]
+2024-04-17 21:16:10.387 [info] > git show --textconv HEAD:app/views/home/index.html.erb [17ms]
+2024-04-17 21:16:10.387 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:16:10.387 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:16:29.221 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [14ms]
+2024-04-17 21:16:29.221 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:16:29.223 [info] > git config --get commit.template [2ms]
+2024-04-17 21:16:29.233 [info] No remotes found in the git config file.
+2024-04-17 21:16:29.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:16:29.234 [warning] No such branch: main.
+2024-04-17 21:16:29.245 [info] > git status -z -uall [1ms]
+2024-04-17 21:17:01.814 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [1ms]
+2024-04-17 21:17:01.814 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:17:08.520 [info] > git show --textconv :app/views/home/index.html.erb [8ms]
+2024-04-17 21:17:08.521 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:17:31.372 [info] > git config --get commit.template [1ms]
+2024-04-17 21:17:31.384 [info] No remotes found in the git config file.
+2024-04-17 21:17:31.385 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:17:31.385 [warning] No such branch: main.
+2024-04-17 21:17:31.398 [info] > git status -z -uall [2ms]
+2024-04-17 21:17:40.112 [info] > git config --get commit.template [10ms]
+2024-04-17 21:17:40.112 [info] No remotes found in the git config file.
+2024-04-17 21:17:40.112 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:17:40.112 [warning] No such branch: main.
+2024-04-17 21:17:40.134 [info] > git status -z -uall [6ms]
+2024-04-17 21:17:45.152 [info] > git config --get commit.template [1ms]
+2024-04-17 21:17:45.158 [info] No remotes found in the git config file.
+2024-04-17 21:17:45.159 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:17:45.159 [warning] No such branch: main.
+2024-04-17 21:17:45.167 [info] > git status -z -uall [1ms]
+2024-04-17 21:18:08.384 [info] > git show --textconv :app/views/home/index.html.erb [7ms]
+2024-04-17 21:18:08.385 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:18:11.131 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [5ms]
+2024-04-17 21:18:11.131 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:18:13.213 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:18:13.213 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:18:14.869 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [3ms]
+2024-04-17 21:18:14.869 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:18:40.107 [info] > git show --textconv :app/views/home/index.html.erb [8ms]
+2024-04-17 21:18:40.108 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:18:41.471 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [4ms]
+2024-04-17 21:18:41.471 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:18:42.853 [info] > git show --textconv :app/views/home/index.html.erb [7ms]
+2024-04-17 21:18:42.854 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [1ms]
+2024-04-17 21:19:28.740 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-04-17 21:20:38.975 [info] > git show --textconv HEAD:app/views/home/index.html.erb [12ms]
+2024-04-17 21:20:38.975 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:20:38.975 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:20:55.044 [info] > git show --textconv :app/views/home/index.html.erb [8ms]
+2024-04-17 21:20:55.044 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:20:56.349 [info] > git ls-tree -l HEAD -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:20:56.349 [info] fatal: Not a valid object name HEAD
+2024-04-17 21:20:58.351 [info] > git show --textconv :app/views/home/index.html.erb [8ms]
+2024-04-17 21:20:58.352 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [1ms]
+2024-04-17 21:21:09.586 [info] > git config --get commit.template [1ms]
+2024-04-17 21:21:09.602 [info] No remotes found in the git config file.
+2024-04-17 21:21:09.604 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:21:09.604 [warning] No such branch: main.
+2024-04-17 21:21:09.617 [info] > git status -z -uall [1ms]
+2024-04-17 21:21:31.570 [info] > git show --textconv :app/views/home/index.html.erb [8ms]
+2024-04-17 21:21:31.571 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [1ms]
+2024-04-17 21:21:44.816 [info] > git config --get commit.template [1ms]
+2024-04-17 21:21:44.825 [info] No remotes found in the git config file.
+2024-04-17 21:21:44.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:21:44.826 [warning] No such branch: main.
+2024-04-17 21:21:44.837 [info] > git status -z -uall [1ms]
+2024-04-17 21:22:13.578 [info] > git config --get commit.template [0ms]
+2024-04-17 21:22:13.592 [info] No remotes found in the git config file.
+2024-04-17 21:22:13.593 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:22:13.593 [warning] No such branch: main.
+2024-04-17 21:22:13.607 [info] > git status -z -uall [2ms]
+2024-04-17 21:22:14.798 [info] > git show --textconv :app/views/home/index.html.erb [10ms]
+2024-04-17 21:22:14.799 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:23:30.009 [info] No remotes found in the git config file.
+2024-04-17 21:23:30.009 [info] > git config --get commit.template [17ms]
+2024-04-17 21:23:30.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-04-17 21:23:30.010 [warning] No such branch: main.
+2024-04-17 21:23:30.027 [info] > git status -z -uall [2ms]
+2024-04-17 21:24:22.709 [info] > git show --textconv :config/routes.rb [13ms]
+2024-04-17 21:24:22.710 [info] > git ls-files --stage -- /home/ogsmonk/myapp/config/routes.rb [2ms]
+2024-04-17 21:25:11.038 [info] No remotes found in the git config file.
+2024-04-17 21:25:11.039 [info] > git config --get commit.template [12ms]
+2024-04-17 21:25:11.039 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:25:11.039 [warning] No such branch: main.
+2024-04-17 21:25:11.051 [info] > git status -z -uall [1ms]
+2024-04-17 21:25:24.365 [info] > git config --get commit.template [2ms]
+2024-04-17 21:25:24.380 [info] No remotes found in the git config file.
+2024-04-17 21:25:24.381 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:25:24.381 [warning] No such branch: main.
+2024-04-17 21:25:24.398 [info] > git status -z -uall [1ms]
+2024-04-17 21:25:30.739 [info] No remotes found in the git config file.
+2024-04-17 21:25:30.739 [info] > git config --get commit.template [14ms]
+2024-04-17 21:25:30.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:25:30.739 [warning] No such branch: main.
+2024-04-17 21:25:30.754 [info] > git status -z -uall [1ms]
+2024-04-17 21:25:35.893 [info] No remotes found in the git config file.
+2024-04-17 21:25:35.893 [info] > git config --get commit.template [14ms]
+2024-04-17 21:25:35.894 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:25:35.894 [warning] No such branch: main.
+2024-04-17 21:25:35.908 [info] > git status -z -uall [1ms]
+2024-04-17 21:25:54.987 [info] > git config --get commit.template [16ms]
+2024-04-17 21:25:54.987 [info] No remotes found in the git config file.
+2024-04-17 21:25:54.988 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:25:54.988 [warning] No such branch: main.
+2024-04-17 21:25:55.001 [info] > git status -z -uall [1ms]
+2024-04-17 21:26:19.335 [info] > git config --get commit.template [1ms]
+2024-04-17 21:26:19.353 [info] No remotes found in the git config file.
+2024-04-17 21:26:19.354 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:26:19.354 [warning] No such branch: main.
+2024-04-17 21:26:19.366 [info] > git status -z -uall [1ms]
+2024-04-17 21:26:24.380 [info] > git config --get commit.template [0ms]
+2024-04-17 21:26:24.388 [info] No remotes found in the git config file.
+2024-04-17 21:26:24.389 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-04-17 21:26:24.389 [warning] No such branch: main.
+2024-04-17 21:26:24.397 [info] > git status -z -uall [1ms]
+2024-04-17 21:26:35.480 [info] No remotes found in the git config file.
+2024-04-17 21:26:35.481 [info] > git config --get commit.template [14ms]
+2024-04-17 21:26:35.481 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:26:35.481 [warning] No such branch: main.
+2024-04-17 21:26:35.495 [info] > git status -z -uall [2ms]
+2024-04-17 21:28:51.598 [info] > git show --textconv :app/views/home/index.html.erb [9ms]
+2024-04-17 21:28:51.599 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/home/index.html.erb [2ms]
+2024-04-17 21:29:11.257 [info] No remotes found in the git config file.
+2024-04-17 21:29:11.258 [info] > git config --get commit.template [17ms]
+2024-04-17 21:29:11.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:29:11.258 [warning] No such branch: main.
+2024-04-17 21:29:11.273 [info] > git status -z -uall [2ms]
+2024-04-17 21:32:56.969 [info] > git config --get commit.template [1ms]
+2024-04-17 21:32:56.982 [info] No remotes found in the git config file.
+2024-04-17 21:32:56.983 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:32:56.983 [warning] No such branch: main.
+2024-04-17 21:32:56.997 [info] > git status -z -uall [1ms]
+2024-04-17 21:33:11.889 [info] > git show --textconv :app/views/layouts/application.html.erb [9ms]
+2024-04-17 21:33:11.890 [info] > git ls-files --stage -- /home/ogsmonk/myapp/app/views/layouts/application.html.erb [2ms]

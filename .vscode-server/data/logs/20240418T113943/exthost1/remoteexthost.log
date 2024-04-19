@@ -1,0 +1,161 @@
+2024-04-18 11:39:44.240 [info] Extension host with pid 553 started
+2024-04-18 11:39:44.257 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-18 11:39:44.258 [info] ExtensionService#_doActivateExtension Shopify.ruby-lsp, startup: false, activationEvent: 'onLanguage:erb'
+2024-04-18 11:39:44.325 [info] Lock '/home/ogsmonk/.vscode-server/data/User/workspaceStorage/80543c20b69312bf9a664326616b81c0/vscode.lock': Lock acquired.
+2024-04-18 11:39:44.489 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-18 11:39:44.498 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-18 11:39:44.498 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-18 11:39:44.662 [info] Eager extensions activated
+2024-04-18 11:39:44.662 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-18 11:39:44.663 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-18 11:39:44.666 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-04-18 11:39:44.666 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-04-18 11:39:45.364 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1532
+2024-04-18 11:39:45.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1532
+2024-04-18 11:39:49.495 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:39:54.530 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:39:59.568 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:40:04.605 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:40:09.644 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:40:14.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:40:19.717 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1533
+2024-04-18 11:40:24.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:40:29.793 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:40:34.830 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:40:39.868 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:40:44.905 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:40:49.942 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:40:54.980 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:00.018 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:05.061 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:10.114 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:15.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:20.198 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:25.255 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:30.302 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:37.707 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:42.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:47.805 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:52.852 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:41:58.821 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:03.874 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:08.913 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:13.956 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:18.997 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:24.035 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:29.088 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:34.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1534
+2024-04-18 11:42:39.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1536
+2024-04-18 11:42:44.229 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1536
+2024-04-18 11:42:49.271 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1536
+2024-04-18 11:42:51.105 [info] Extension host terminating: received terminate message from renderer
+2024-04-18 11:42:51.105 [info] Lock '/home/ogsmonk/.vscode-server/data/User/workspaceStorage/80543c20b69312bf9a664326616b81c0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-04-18 11:42:51.138 [error] Canceled: Canceled
+    at new O (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:144:46998)
+    at l.U (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:151:5539)
+    at Proxy.T.<computed>.F.charCodeAt.T.<computed> (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:151:2993)
+    at d.g (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:186335)
+    at d.executeCommand (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185773)
+    at E.registerCommand.description (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185097)
+    at d.h (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:186874)
+    at d.g (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185866)
+    at d.executeCommand (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185773)
+    at Object.executeCommand (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:164:22785)
+    at o.O [as value] (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:945802)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.z (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+    at Object.m [as dispose] (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:964886)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:970920
+    at Array.forEach (<anonymous>)
+    at f.dispose (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:970906)
+    at a.<anonymous> (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:152:3830)
+    at a.dispose (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:152:3927)
+    at a.<anonymous> (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:948059)
+    at a.dispose (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:152:3927)
+    at o (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+    at g.eb (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:9967)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:7816
+    at Array.map (<anonymous>)
+    at g.$ (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:7803)
+    at g.terminate (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:8077)
+    at o.terminate (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at t (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:177:9917)
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:177:7964)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+    at r.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+    at d.z (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:17238)
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:15690)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+    at g.acceptChunk (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:11947)
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:11234)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+    at i.z (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:19732)
+    at i.acceptFrame (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:19538)
+    at n (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:18037)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:15257
+    at Socket.k (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:13162)
+    at Socket.emit (node:events:517:28)
+    at addChunk (node:internal/streams/readable:335:12)
+    at readableAddChunk (node:internal/streams/readable:308:9)
+    at Socket.Readable.push (node:internal/streams/readable:245:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-04-18 11:42:51.139 [error] Canceled: Canceled
+    at new O (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:144:46998)
+    at l.U (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:151:5539)
+    at Proxy.T.<computed>.F.charCodeAt.T.<computed> (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:151:2993)
+    at d.g (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:186335)
+    at d.executeCommand (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185773)
+    at E.registerCommand.description (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185097)
+    at d.h (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:186874)
+    at d.g (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185866)
+    at d.executeCommand (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:154:185773)
+    at Object.executeCommand (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:164:22785)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/github/dist/extension.js:2:324866)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/github/dist/extension.js:2:325825
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:1051703)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.z (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+    at Object.m [as dispose] (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:964886)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:970920
+    at Array.forEach (<anonymous>)
+    at f.dispose (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:970906)
+    at a.<anonymous> (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:152:3830)
+    at a.dispose (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:152:3927)
+    at a.<anonymous> (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/extensions/git/dist/main.js:2:948059)
+    at a.dispose (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:152:3927)
+    at o (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+    at g.eb (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:9967)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:7816
+    at Array.map (<anonymous>)
+    at g.$ (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:7803)
+    at g.terminate (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:160:8077)
+    at o.terminate (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at t (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:177:9917)
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:177:7964)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+    at r.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+    at d.z (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:17238)
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:15690)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+    at g.acceptChunk (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:11947)
+    at o.value (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:107:11234)
+    at s.y (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+    at s.fire (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+    at i.z (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:19732)
+    at i.acceptFrame (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:19538)
+    at n (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:18037)
+    at /home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:15257
+    at Socket.k (/home/ogsmonk/.vscode-server/bin/e170252f762678dec6ca2cc69aba1570769a5d39/out/vs/workbench/api/node/extensionHostProcess.js:174:13162)
+    at Socket.emit (node:events:517:28)
+    at addChunk (node:internal/streams/readable:335:12)
+    at readableAddChunk (node:internal/streams/readable:308:9)
+    at Socket.Readable.push (node:internal/streams/readable:245:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-04-18 11:42:51.140 [info] Extension host with pid 553 exiting with code 0

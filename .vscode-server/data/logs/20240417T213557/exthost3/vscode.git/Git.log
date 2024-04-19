@@ -1,0 +1,40 @@
+2024-04-17 21:38:15.335 [info] Log level: Info
+2024-04-17 21:38:15.335 [info] Validating found git in: "git"
+2024-04-17 21:38:15.335 [info] Using git "2.34.1" from "git"
+2024-04-17 21:38:15.335 [info] > git rev-parse --show-toplevel [7ms]
+2024-04-17 21:38:15.335 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-04-17 21:38:15.335 [info] Open repository: /home/ogsmonk
+2024-04-17 21:38:15.337 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-17 21:38:15.338 [info] > git config --get commit.template [9ms]
+2024-04-17 21:38:15.350 [info] No remotes found in the git config file.
+2024-04-17 21:38:15.350 [info] > git rev-parse --show-toplevel [8ms]
+2024-04-17 21:38:15.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:38:15.351 [warning] No such branch: main.
+2024-04-17 21:38:15.363 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-17 21:38:15.587 [info] > git status -z -uall [231ms]
+2024-04-17 21:38:15.626 [info] > git rev-parse --show-toplevel [41ms]
+2024-04-17 21:38:15.634 [info] > git config --get commit.template [8ms]
+2024-04-17 21:38:15.639 [info] > git rev-parse --show-toplevel [6ms]
+2024-04-17 21:38:15.645 [info] No remotes found in the git config file.
+2024-04-17 21:38:15.655 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-04-17 21:38:15.655 [warning] No such branch: main.
+2024-04-17 21:38:15.661 [info] > git rev-parse --show-toplevel [12ms]
+2024-04-17 21:38:15.667 [info] > git status -z -uall [7ms]
+2024-04-17 21:38:15.667 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-17 21:38:15.690 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-17 21:38:15.696 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-17 21:38:15.911 [info] > git check-ignore -v -z --stdin [3ms]
+2024-04-17 21:38:17.887 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:38:18.660 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-17 21:38:19.008 [info] > git show --textconv :app/views/home/index.html.erb [6ms]
+2024-04-17 21:38:19.008 [info] > git ls-files --stage -- /home/ogsmonk/app/views/home/index.html.erb [1ms]
+2024-04-17 21:38:20.991 [info] > git config --get commit.template [1ms]
+2024-04-17 21:38:20.996 [info] No remotes found in the git config file.
+2024-04-17 21:38:20.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:38:20.997 [warning] No such branch: main.
+2024-04-17 21:38:21.009 [info] > git status -z -uall [7ms]
+2024-04-17 21:38:26.031 [info] > git config --get commit.template [1ms]
+2024-04-17 21:38:26.037 [info] No remotes found in the git config file.
+2024-04-17 21:38:26.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-17 21:38:26.037 [warning] No such branch: main.
+2024-04-17 21:38:26.048 [info] > git status -z -uall [7ms]
